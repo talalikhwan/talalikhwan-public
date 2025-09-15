@@ -18,7 +18,8 @@ He specializes in:
 ---
 
 ## 📌 Selected Work  
-- [The Rise of Knowledge Assistants (Medium)](https://medium.com/@talalikhwan86/the-rise-of-knowledge-assistants-unlocking-the-hidden-value-of-enterprise-knowledge-860bfd9d205f)  
+- [The Rise of Knowledge Assistants (Medium)](https://medium.com/@talalikhwan86/the-rise-of-knowledge-assistants-unlocking-the-hidden-value-of-enterprise-knowledge-860bfd9d205f)
+- [The Rise of Agentic AI (Medium)](https://medium.com/@talalikhwan/the-rise-of-agentic-ai-orchestrating-the-enterprise-of-tomorrow-e803921d2b13)
 - [KPMG Be in Front campaign](https://kpmg.com/sg/en/home/campaigns/2025/01/be-in-front/talal-ikhwan.html)  
 - [MoneyFM Morning Show Interview](https://omny.fm/shows/moneyfm-morning-show/11-9-kpmg-be-in-front-innovation-reinventing-for-lasting-impact)
 - [ADB East Asia Forum 2024 Panel](https://rksi.adb.org/events/east-asia-forum-2024/)  
