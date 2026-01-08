@@ -23,7 +23,8 @@ He specializes in:
 - [KPMG Be in Front campaign](https://kpmg.com/sg/en/home/campaigns/2025/01/be-in-front/talal-ikhwan.html)  
 - [MoneyFM Morning Show Interview](https://omny.fm/shows/moneyfm-morning-show/11-9-kpmg-be-in-front-innovation-reinventing-for-lasting-impact)
 - [ADB East Asia Forum 2024 Panel](https://rksi.adb.org/events/east-asia-forum-2024/)  
-
+- [The Future of Consulting in an AI World (Lets talk Evolution Podcast)] Discussing enterprise AI execution, agentic systems, and operating AI at scale.  
+  (https://evolutionjobs.com/exchange/lets-talk-evolution-17-the-future-of-consulting-in-an-ai-world/)
 ---
 
 ## 📚 Topics of Expertise  
@@ -39,7 +40,6 @@ He specializes in:
 - Speaker, **Asian Development Bank East Asia Forum 2024** (AI governance & global best practices)  
 - Featured in **MoneyFM Morning Show** (AI & innovation leadership)  
 - Highlighted in **KPMG Be in Front Campaign** (enterprise AI adoption and innovation)
-
 ##  Personal Challenge
 
 Participated in the **Polar Circle Marathon** in Greenland—an extreme marathon run across ice and tundra at sub-zero temperatures. Completing one of the most challenging marathon events in the world.  
